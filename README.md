@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m currently working on improving my skills and building small projects to strengthen my fundamentals.<br>I’m currently learning C, React, frontend development, and Blender 3D modeling.<br><br>Fun fact: My favorite debugging technique is “console.log(‘here’)”.<br><br>
+I’m currently working on improving my skills and building small projects to strengthen my fundamentals.<br>I’m currently learning C, React, frontend development, and Blender 3D modeling.<br><br>
 
 ## 🌐 Socials:
 
